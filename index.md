@@ -1,18 +1,19 @@
 ## **Portfolio**
 
+---
 **PV Parks in dump designated territories: A business opportunity**
 <br><br>
 This project downloaded ten years of climate data from Copernicus –the European Union Earth observatory– for two very different countries regarding their amount of sunlight: Spain and Germany, to obtain the energy potential of installing PV panels on land with a land-use designation such as *dump*. The project objective is to
-- Demonstrate that such output is big enough to be financially viable and successful.
-- That the total production is consistent from year to year.
-<br>
-[Executive Summary](/pdf/executive_summary.pdf)
-<br>
+* Demonstrate that such output is big enough to be financially viable and successful.
+* That the total production is consistent from year to year.
+
+[Executive Summary](/pdf/executive_summary.pdf) <br><br>
 [Full Project](https://github.com/roberto-andrade22/PV_Parks_EU)
 <br><br>
 <img src="images/italy.jpeg?raw=true"
 width="70%"/>
 <br><br>
+
 ---
 **Predicting customer defaulting on a loan**
 <br><br>
@@ -23,6 +24,7 @@ Given Home Credit's default risk [data](https://www.kaggle.com/competitions/home
 <img src="images/loan.png?raw=true"
 width="70%"/>
 <br><br>
+
 ---
 **Predicting the next items in a grocery ordering & delivering app**
 <br><br>
@@ -35,6 +37,7 @@ The purpose of this project is to answer at least one of the questions: Which it
 <img src="images/basket.png?raw=true"
 width="70%"/>
 <br><br>
+
 ---
 [Text Summarization with Transformers](http://example.com/)
 <br><br>
