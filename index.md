@@ -1,18 +1,25 @@
 ## Portfolio
 
 ---
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[PV Parks in dump designated territories: A business opportunity](/sample_page)
+<br>
+<img src="images/italy.jpeg?raw=true"
+width="60%"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting customer defaulting on a loan](/pdf/sample_presentation.pdf)
+<br>
+<img src="images/loan.png?raw=true"
+width="60%"/>
 
 ---
+[Predicting the next items in a grocery ordering & delivering app](http://example.com/)
+<br>
+<img src="images/basket.png?raw=true"
+width="60%"/>
+
+---
+[Text Summarization with Transformers](http://example.com/)
+<br>
+<img src="images/nlp.jpg?raw=true"
+width="60%"/>
