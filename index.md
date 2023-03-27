@@ -15,7 +15,11 @@ This project downloaded ten years of climate data from Copernicus –the Europea
 width="60%"/>
 
 ---
-[Predicting customer defaulting on a loan](/pdf/sample_presentation.pdf)
+**Predicting customer defaulting on a loan**
+<br><br>
+Given Home Credit's default risk [data](https://www.kaggle.com/competitions/home-credit-default-risk/data), this project aims to build a classification algorithm that will predict whether or not a client will default on a loan.
+<br>
+[Full Project](https://github.com/roberto-andrade22/loan_default_classification)
 <br><br>
 <img src="images/loan.png?raw=true"
 width="60%"/>
