@@ -6,7 +6,7 @@
 This project downloaded ten years of climate data from Copernicus –the European Union Earth observatory– for two very different countries regarding their amount of sunlight: Spain and Germany, to obtain the energy potential of installing PV panels on land with a land-use designation such as *dump*. The project objective is to
 - Demonstrate that such output is big enough to be financially viable and successful.
 - That the total production is consistent from year to year.
-<br><br>
+><br>
 [Executive Summary](/pdf/executive_summary.pdf)
 <br>
 [Full Project](https://github.com/roberto-andrade22/PV_Parks_EU)
