@@ -1,4 +1,4 @@
-## Portfolio
+## **Portfolio**
 
 ---
 **PV Parks in dump designated territories: A business opportunity**
