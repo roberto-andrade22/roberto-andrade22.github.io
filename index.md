@@ -31,8 +31,8 @@ width="80%"/>
 Given Instacart's open source dataset, 3 million Instacart Orders, in which there is information of millions of sales transactions that have been made through the app, it is of interest to try to answer some questions regarding hidden patterns within the data.
 
 The purpose of this project is to answer at least one of the questions: Which item will the user add to the basket next?
-<br>
-[Full Project](https://github.com/roberto-andrade22/instacart_basket)
+<br><br>
+[Summary](summary_loan)
 <br><br>
 <img src="images/basket.png?raw=true"
 width="80%"/>
