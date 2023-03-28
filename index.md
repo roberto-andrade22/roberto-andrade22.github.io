@@ -7,7 +7,8 @@ This project downloaded ten years of climate data from Copernicus –the Europea
 * Demonstrate that such output is big enough to be financially viable and successful.
 * That the total production is consistent from year to year.
 
-[Executive Summary](/pdf/executive_summary.pdf) <br><br>
+[Summary](summary) <br><br>
+[Download PDF](/pdf/executive_summary.pdf)
 [Full Project](https://github.com/roberto-andrade22/PV_Parks_EU)
 <br><br>
 <img src="images/italy.jpeg?raw=true"
