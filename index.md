@@ -18,7 +18,7 @@ width="65%"/>
 **Predicting customer defaulting on a loan**
 <br><br>
 Given Home Credit's default risk data, this project aims to build a classification algorithm that will predict whether or not a client will default on a loan.
-<br>
+<br><br>
 [Summary](summary_loan)
 <br><br>
 <img src="images/loan.png?raw=true"
