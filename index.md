@@ -19,7 +19,7 @@ width="65%"/>
 <br><br>
 Given Home Credit's default risk data, this project aims to build a classification algorithm that will predict whether or not a client will default on a loan.
 <br>
-[Full Project](https://github.com/roberto-andrade22/loan_default_classification)
+[Summary](summary_loan)
 <br><br>
 <img src="images/loan.png?raw=true"
 width="80%"/>
