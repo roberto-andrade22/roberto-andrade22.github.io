@@ -8,8 +8,7 @@ This project downloaded ten years of climate data from Copernicus –the Europea
 * That the total production is consistent from year to year.
 
 [Summary](summary) <br><br>
-[Download PDF](/pdf/executive_summary.pdf)<br><br>
-[Full Project](https://github.com/roberto-andrade22/PV_Parks_EU)
+[Download PDF](/pdf/executive_summary.pdf)
 <br><br>
 <img src="images/italy.jpeg?raw=true"
 width="65%"/>
