@@ -42,8 +42,8 @@ width="80%"/>
 **Text Summarization with Transformers**
 <br><br>
 Due to the importance Natural Language Processing has, its seemingly limitless potential, and the great amount of models that are now readily available for it, it was of great interest to try and implement one of these models to perform a useful task. This project focused on text summarization.
-<br>
-[Full Project](https://github.com/roberto-andrade22/MandoTextAnalytics)
+<br><br>
+[Summary](summary_nlp)
 <br><br>
 <img src="images/nlp.jpg?raw=true"
 width="70%"/>
