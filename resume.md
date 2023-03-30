@@ -1,6 +1,5 @@
 [Back to Portfolio](index)
 <hr>
-<br>
 <H3 align ='CENTER'><strong>ROBERTO ANDRADE</strong></H3>
 <p style="text-align: center;">South Bend, IN • (574) 220 4938 • roberto.am1488@gmail.com • 
 <a href="https://www.linkedin.com/in/roberto-andrade-martinez/">LinkedIn</a>
@@ -99,15 +98,15 @@
 <h4><strong>TECHNICAL SKILLS</strong></h4>
 <hr>
 
-**Programming:** Python (Scikit-learn; SciPy; NumPy; Simulation & Optimization; Web scraping); R; SQL; Java.
+<b>Programming:</b> Python (Scikit-learn; SciPy; NumPy; Simulation & Optimization; Web scraping); R; SQL; Java.
 
-**Statistics:** Descriptive and frequentist inferential stats; Time Series Analysis; Survival Analysis.
+<b>Statistics:</b> Descriptive and frequentist inferential stats; Time Series Analysis; Survival Analysis.
 
-**Machine Learning:** Regression; Regularization; Naive Bayes; SVM; CART; XGBoost; K-NN; Apriori; KMeans; Hierarchical Clustering; PCA; CNN; RNN; BERT; Transformers.
+<b>Machine Learning:</b> Regression; Regularization; Naive Bayes; SVM; CART; XGBoost; K-NN; Apriori; KMeans; Hierarchical Clustering; PCA; CNN; RNN; BERT; Transformers.
 
-**Tools:** Linux Shell; Version control through Git; AWS.
+<b>Tools:</b> Linux Shell; Version control through Git; AWS.
 
-**Languages:** Spanish (Native), French (Basic A2).
+<b>Languages:</b> Spanish (Native), French (Basic A2).
 <br>
 
 <h4><strong>LEADERSHIP & SERVICE</strong></h4>
