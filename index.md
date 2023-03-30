@@ -32,7 +32,7 @@ Given Instacart's open source dataset, 3 million Instacart Orders, in which ther
 
 The purpose of this project is to answer at least one of the questions: Which item will the user add to the basket next?
 <br><br>
-[Summary](summary_loan)
+[Summary](summary_basket)
 <br><br>
 <img src="images/basket.png?raw=true"
 width="80%"/>
