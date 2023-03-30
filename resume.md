@@ -3,8 +3,8 @@
 <br>
 <H3 align ='CENTER'><strong>ROBERTO ANDRADE</strong></H3>
 <p style="text-align: center;">South Bend, IN • (574) 220 4938 • roberto.am1488@gmail.com • 
-<a href="linkedin.com/in/roberto-andrade-martinez">LinkedIn</a>
-• <a href="roberto-andrade22.github.io">GitHub</a> • <a href="roberto-andrade22.github.io">Website</a></p>
+<a href="https://www.linkedin.com/in/roberto-andrade-martinez/">LinkedIn</a>
+• <a href="https://github.com/roberto-andrade22">GitHub</a> • <a href="https://roberto-andrade22.github.io/">Website</a></p>
 
 <h4><strong>EDUCATION</strong></h4>
 <hr>
