@@ -77,7 +77,7 @@ This is how the data looks:
 
 
 
-The project focused on <u>*association rules*</u> for departments. The objective was to deliver a set of rules such as if the client just added a product from the Dairy department, it's likely the next product will be from Bakery, for example. Making these suggestions would improve customer experience and increase sales.
+The project focused on <u>association rules</u> for departments. The objective was to deliver a set of rules such as if the client just added a product from the Dairy department, it's likely the next product will be from Bakery, for example. Making these suggestions would improve customer experience and increase sales.
 
 This is how the recommendations would look:
 
