@@ -19,7 +19,7 @@
     <span style="float:right;">
         May 2023
     </span>
-</p><br>
+</p>
 <p style="text-align:left;"><strong>
     INSTITUTO TECNOLOGICO AUTONOMO DE MEXICO</strong>
     <span style="float:right;">
@@ -32,7 +32,7 @@
         May 2021
     </span>
 </p>
-<br>
+
 
 <h4><strong>PROFESSIONAL EXPERIENCE</strong></h4>
 <hr>
