@@ -1,49 +1,50 @@
 [Back to Portfolio](index)
-
----
+<hr>
+<br>
 <H3 align ='CENTER'><strong>ROBERTO ANDRADE</strong></H3>
 <p style="text-align: center;">South Bend, IN • (574) 220 4938 • roberto.am1488@gmail.com • 
 <a href="linkedin.com/in/roberto-andrade-martinez">LinkedIn</a>
 • <a href="roberto-andrade22.github.io">GitHub</a> • <a href="roberto-andrade22.github.io">Website</a></p>
 
-#### **EDUCATION**
----
-<p style="text-align:left;"><b>
-    UNIVERSITY OF NOTRE DAME</b>
+<h4><strong>EDUCATION</strong></h4>
+<hr>
+
+<p style="text-align:left;"><strong>
+    UNIVERSITY OF NOTRE DAME</strong>
     <span style="float:right;">
         Notre Dame, IN
     </span>
 </p>
-<p style="text-align:left;">
-    Master of Science in Business Analytics
+<p style="text-align:left;"><b>
+    Master of Science in Business Analytics</b>
     <span style="float:right;">
         May 2023
     </span>
 </p><br>
-<p style="text-align:left;"><b>
-    INSTITUTO TECNOLOGICO AUTONOMO DE MEXICO</b>
+<p style="text-align:left;"><strong>
+    INSTITUTO TECNOLOGICO AUTONOMO DE MEXICO</strong>
     <span style="float:right;">
         Mexico City, Mexico
     </span>
 </p>
-<p style="text-align:left;">
-    Bachelor of Science in Business Engineering
+<p style="text-align:left;"><b>
+    Bachelor of Science in Business Engineering</b>
     <span style="float:right;">
         May 2021
     </span>
 </p>
 <br>
 
-#### **PROFESSIONAL EXPERIENCE**
----
-<p style="text-align:left;"><b>
-    CORPORACION ANDINA DE FOMENTO (CAF)</b>
+<h4><strong>PROFESSIONAL EXPERIENCE</strong></h4>
+<hr>
+<p style="text-align:left;"><strong>
+    CORPORACION ANDINA DE FOMENTO (CAF)</strong>
     <span style="float:right;">
         Mexico City, Mexico
     </span>
 </p>
 <p style="text-align:left;"><b>
-    Jr Consultant (Data Analyst and Data Engineer)</b>
+    Jr Consultant<br>Data Analyst and Data Engineer</b>
     <span style="float:right;">
         September 2021 - August 2022
     </span>
@@ -55,8 +56,9 @@
 * Organized and led meetings with the client to advocate why the project could and should be executed on a wider scale, as the new approach of the open-source program was a cost-saving alternative.
 <br>
 
-#### **OPEN PROJECTS**
----
+<h4><strong>OPEN PROJECTS</strong></h4>
+<hr>
+
 <p style="text-align:left;"><b>
     Solar Energy Farms on idle Land</b>
     <span style="float:right;">
@@ -94,8 +96,9 @@
 * Scrapes the scripts of the first two seasons of The Mandalorian, and of The Book of Boba Fett to generate concise summaries of each episode using the Transformers T5 model.
 <br>
 
-#### **TECHNICAL SKILLS**
----
+<h4><strong>TECHNICAL SKILLS</strong></h4>
+<hr>
+
 **Programming:** Python (Scikit-learn; SciPy; NumPy; Simulation & Optimization; Web scraping); R; SQL; Java.
 
 **Statistics:** Descriptive and frequentist inferential stats; Time Series Analysis; Survival Analysis.
@@ -107,10 +110,11 @@
 **Languages:** Spanish (Native), French (Basic A2).
 <br>
 
-#### **LEADERSHIP & SERVICE**
----
-<p style="text-align:left;"><b>
-    ALCANCE USL</b>
+<h4><strong>LEADERSHIP & SERVICE</strong></h4>
+<hr>
+
+<p style="text-align:left;"><strong>
+    ALCANCE USL</strong>
     <span style="float:right;">
         Mexico City, Mexico
     </span>
@@ -127,10 +131,11 @@
 * Mentored the next cohort of volunteers through team-building activities and assigned tasks to help them acclimate to the organization's management and properly meet volunteer expectations.
 <br>
 
-#### **INTERESTS**
----
+<h4><strong>INTERESTS</strong></h4>
+<hr>
+
 * Hispanic and Latin-American literature; Popular Science; Chess; Mechanical Watches.
 
----
+<hr>
 
 [Back to Portfolio](index)
