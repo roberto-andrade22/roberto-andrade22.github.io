@@ -54,6 +54,23 @@
 * Executed and optimized search algorithms to build the centralized database of matching entries. Enhanced runtime by 75% while losing only 3% of matches.
 * Organized and led meetings with the client to advocate why the project could and should be executed on a wider scale, as the new approach of the open-source program was a cost-saving alternative.
 <br>
+<p style="text-align:left;"><strong>
+    UNITED FEDERAL CREDIT UNION</strong>
+    <span style="float:right;">
+        South Bend, IN
+    </span>
+</p>
+<p style="text-align:left;"><b>
+    Data Science Intern</b>
+    <span style="float:right;">
+        January 2023 - May 2023
+    </span>
+</p>
+
+* Conducted comprehensive analysis of customer reviews and feedback on 5 years of data, employing topic modeling and sentiment analysis techniques to extract valuable insights by gaining a deeper understanding of customer perceptions on various initiatives.
+* Developed interactive data visualizations to effectively communicate the findings from the analysis, providing stakeholders with actionable insights. 
+* Ensured the scripts and methodologies used were highly reusable for future data analysis, facilitating streamlined processes and enabling ongoing data-driven decision-making.
+<br>
 
 <h4><strong>OPEN PROJECTS</strong></h4>
 <hr>
