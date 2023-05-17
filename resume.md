@@ -20,6 +20,9 @@
         May 2023
     </span>
 </p>
+
+* Maiello-Bruchhaus Award for Analytics Excellence; MBA Consulting Club; Mendoza LatinAmerican Club
+
 <p style="text-align:left;"><strong>
     INSTITUTO TECNOLOGICO AUTONOMO DE MEXICO</strong>
     <span style="float:right;">
