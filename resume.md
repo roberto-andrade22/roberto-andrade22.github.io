@@ -1,9 +1,64 @@
 [Back to Portfolio](index)
 <hr>
 <H3 align ='CENTER'><strong>ROBERTO ANDRADE</strong></H3>
-<p style="text-align: center;">South Bend, IN • (574) 220 4938 • roberto.am1488@gmail.com • 
+<p style="text-align: center;">Houston, TX • 
 <a href="https://www.linkedin.com/in/roberto-andrade-martinez/">LinkedIn</a>
 • <a href="https://github.com/roberto-andrade22">GitHub</a> • <a href="https://roberto-andrade22.github.io/">Website</a></p>
+
+<h4><strong>PROFESSIONAL EXPERIENCE</strong></h4>
+<hr>
+<p style="text-align:left;"><strong>
+    AFRY Management Consulting</strong>
+    <span style="float:right;">
+        Houston, TX
+    </span>
+</p>
+<p style="text-align:left;"><b>
+    Market Modeling Analyst</b>
+    <span style="float:right;">
+        July 2023 - Present
+    </span>
+</p>
+
+* Develop and implemen advanced power price forecasting models using BID3, Python, and R, resulting in accurate and reliable projections for grid conditions, power plant economics, and market dynamics.
+* Conduct comprehensive analysis of market developments, including regulatory and environmental policies, emerging technologies, and economic factors, to assess their impact on the power grid and provide strategic recommendations to clients. 
+* Collaborate with cross-functional teams to enhance AFRY's proprietary models and databases to drive innovation and improve the company's market offerings.
+<br>
+<p style="text-align:left;"><strong>
+    UNITED FEDERAL CREDIT UNION</strong>
+    <span style="float:right;">
+        South Bend, IN
+    </span>
+</p>
+<p style="text-align:left;"><b>
+    Data Science Intern</b>
+    <span style="float:right;">
+        January 2023 - May 2023
+    </span>
+</p>
+
+* Conducted comprehensive analysis of customer reviews and feedback on 5 years of data, employing topic modeling and sentiment analysis techniques to extract valuable insights by gaining a deeper understanding of customer perceptions on various initiatives.
+* Developed interactive data visualizations to effectively communicate the findings from the analysis, providing stakeholders with actionable insights. 
+* Ensured the scripts and methodologies used were highly reusable for future data analysis, facilitating streamlined processes and enabling ongoing data-driven decision-making.
+<br>
+<p style="text-align:left;"><strong>
+    CORPORACION ANDINA DE FOMENTO (CAF)</strong>
+    <span style="float:right;">
+        Mexico City, Mexico
+    </span>
+</p>
+<p style="text-align:left;"><b>
+    Jr Consultant<br>Data Analyst and Data Engineer</b>
+    <span style="float:right;">
+        September 2021 - August 2022
+    </span>
+</p>
+
+* Collaborated in mapping business processes for the consulting teams' projects to ensure accountability within the team and standardized outcomes.
+* Improved delivery schedule to the multilateral bank’s non-profit customer to once per week from once every three weeks.
+* Executed and optimized search algorithms to build the centralized database of matching entries. Enhanced runtime by 75% while losing only 3% of matches.
+* Organized and led meetings with the client to advocate why the project could and should be executed on a wider scale, as the new approach of the open-source program was a cost-saving alternative.
+<br>
 
 <h4><strong>EDUCATION</strong></h4>
 <hr>
@@ -35,44 +90,6 @@
         May 2021
     </span>
 </p>
-
-
-<h4><strong>PROFESSIONAL EXPERIENCE</strong></h4>
-<hr>
-<p style="text-align:left;"><strong>
-    CORPORACION ANDINA DE FOMENTO (CAF)</strong>
-    <span style="float:right;">
-        Mexico City, Mexico
-    </span>
-</p>
-<p style="text-align:left;"><b>
-    Jr Consultant<br>Data Analyst and Data Engineer</b>
-    <span style="float:right;">
-        September 2021 - August 2022
-    </span>
-</p>
-
-* Collaborated in mapping business processes for the consulting teams' projects to ensure accountability within the team and standardized outcomes.
-* Improved delivery schedule to the multilateral bank’s non-profit customer to once per week from once every three weeks.
-* Executed and optimized search algorithms to build the centralized database of matching entries. Enhanced runtime by 75% while losing only 3% of matches.
-* Organized and led meetings with the client to advocate why the project could and should be executed on a wider scale, as the new approach of the open-source program was a cost-saving alternative.
-<br>
-<p style="text-align:left;"><strong>
-    UNITED FEDERAL CREDIT UNION</strong>
-    <span style="float:right;">
-        South Bend, IN
-    </span>
-</p>
-<p style="text-align:left;"><b>
-    Data Science Intern</b>
-    <span style="float:right;">
-        January 2023 - May 2023
-    </span>
-</p>
-
-* Conducted comprehensive analysis of customer reviews and feedback on 5 years of data, employing topic modeling and sentiment analysis techniques to extract valuable insights by gaining a deeper understanding of customer perceptions on various initiatives.
-* Developed interactive data visualizations to effectively communicate the findings from the analysis, providing stakeholders with actionable insights. 
-* Ensured the scripts and methodologies used were highly reusable for future data analysis, facilitating streamlined processes and enabling ongoing data-driven decision-making.
 <br>
 
 <h4><strong>OPEN PROJECTS</strong></h4>
