@@ -20,7 +20,7 @@
     </span>
 </p>
 
-* Develop and implemen advanced power price forecasting models using BID3, Python, and R, resulting in accurate and reliable projections for grid conditions, power plant economics, and market dynamics.
+* Develop and implement advanced power price forecasting models using BID3, Python, and R, resulting in accurate and reliable projections for grid conditions, power plant economics, and market dynamics.
 * Conduct comprehensive analysis of market developments, including regulatory and environmental policies, emerging technologies, and economic factors, to assess their impact on the power grid and provide strategic recommendations to clients. 
 * Collaborate with cross-functional teams to enhance AFRY's proprietary models and databases to drive innovation and improve the company's market offerings.
 <br>
