@@ -103,15 +103,15 @@
 <h4><strong>Additional Information</strong></h4>
 <hr>
 
-<b>Energy Markets Modeling:</b> BID3 (Power markets), GPCM (North American gas markets)
+<b>Energy Markets Modeling:</b> BID3 (Power markets), GPCM (North American gas markets).
 
-<b>Programming:</b> Python (Pandas, NumPy, Scikit learn, matplotlib, seaborn, requests), R, Java, SQL, Advanced Excel
+<b>Programming:</b> Python (Pandas, NumPy, Scikit learn, matplotlib, seaborn, requests), R, Java, SQL, Advanced Excel.
 
-<b>Statistics:</b> Exploratory Data Analysis, Descriptive and Inferential Statistics, probability, Hypothesis testing, ANOVA, A/B Testing, Linear Regression, Survival Analysis, Time Series Analysis
+<b>Statistics:</b> Exploratory Data Analysis, Descriptive and Inferential Statistics, probability, Hypothesis testing, ANOVA, A/B Testing, Linear Regression, Survival Analysis, Time Series Analysis.
 
-<b>Machine Learning:</b> Supervised & Unsupervised Learning, Regression, Classification, Linear Programming
+<b>Machine Learning:</b> Supervised & Unsupervised Learning, Regression, Classification, Linear Programming.
 
-<b>Tools:</b> SQL Server, Jupyter notebook, Power BI, Tableau, Git (version control)
+<b>Tools:</b> SQL Server, Jupyter notebook, Power BI, Tableau, Git (version control).
 
 <b>Languages:</b> Spanish (Native)
 <br>
